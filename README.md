@@ -1,6 +1,6 @@
-**﻿# Predator-Prey-game**
+**﻿Predator-Prey-game**
 
-My first pygame project! This simple game showcases dynamic interactions in a simulated ecosystem where predators (incl. player), prey coexist. Predators hunt prey in hope of not dying from hunger. Prey evades threats in a circular arena and reproduces trying to stay alive.
+My first pygame project. This simple game showcases dynamic interactions in a simulated ecosystem where predators (incl. player), prey coexist. Predators hunt prey in hope of not dying from hunger. Prey evades threats in a circular arena and reproduces trying to stay alive.
 
 ![image](https://github.com/user-attachments/assets/9b4fc9d6-1c64-4f27-8e17-72992327f271)
 
